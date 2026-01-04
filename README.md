@@ -1,4 +1,3 @@
-# aws-code
 # For Linux use:
 
           sudo yum update -y
@@ -34,3 +33,4 @@
 -------->For running application
 
          sudo python3 EmpApp.py
+		 
